@@ -18,6 +18,7 @@ main()
 	// do this until user enters 5
     printf("length = %d\n", strlen(name)); /* debug line */
         printf("ppppppppppppppppppp"); /* debug line */
+        printf("pica"); /* debug line */
 
 	do
 	{
